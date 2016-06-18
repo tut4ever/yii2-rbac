@@ -1,4 +1,5 @@
 {
+	"name": "quangthinh/yii2-rbac",
     "require": {
         "quangthinh/yii2-adminlte": "@dev"
     }
