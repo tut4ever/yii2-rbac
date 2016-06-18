@@ -1,0 +1,5 @@
+{
+    "require": {
+        "quangthinh/yii2-adminlte": "@dev"
+    }
+}
